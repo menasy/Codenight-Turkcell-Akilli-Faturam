@@ -1,0 +1,29 @@
+[
+  {
+    "addon_id": 101,
+    "name": "Ek 5GB",
+    "type": "data",
+    "extra_gb": 5,
+    "extra_min": 0,
+    "extra_sms": 0,
+    "price": 75
+  },
+  {
+    "addon_id": 102,
+    "name": "Ek 100DK",
+    "type": "voice",
+    "extra_gb": 0,
+    "extra_min": 100,
+    "extra_sms": 0,
+    "price": 35
+  },
+  {
+    "addon_id": 103,
+    "name": "Ek 250SMS",
+    "type": "sms",
+    "extra_gb": 0,
+    "extra_min": 0,
+    "extra_sms": 250,
+    "price": 25
+  }
+]

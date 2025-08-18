@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": 1,
+    "name": "Ali",
+    "age": 25,
+    "current_plan_id": 4,
+    "type": "faturasız",
+    "msisdn": "5551234567"
+  },
+  {
+    "user_id": 2,
+    "name": "Ayşe",
+    "age": 34,
+    "current_plan_id": 2,
+    "type": "faturalı",
+    "msisdn": "5557654321"
+  },
+  {
+    "user_id": 3,
+    "name": "Mehmet",
+    "age": 42,
+    "current_plan_id": 2,
+    "type": "faturalı",
+    "msisdn": "5559876543"
+  }
+]

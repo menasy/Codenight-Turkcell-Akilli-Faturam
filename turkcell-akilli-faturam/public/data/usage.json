@@ -1,0 +1,66 @@
+[
+  {
+    "user_id": 1,
+    "date": "2025-01-15",
+    "mb_used": 450,
+    "minutes_used": 12,
+    "sms_used": 1,
+    "roaming_mb": 0
+  },
+  {
+    "user_id": 1,
+    "date": "2025-01-16",
+    "mb_used": 980,
+    "minutes_used": 25,
+    "sms_used": 0,
+    "roaming_mb": 0
+  },
+  {
+    "user_id": 1,
+    "date": "2025-01-17",
+    "mb_used": 1520,
+    "minutes_used": 35,
+    "sms_used": 2,
+    "roaming_mb": 0
+  },
+  {
+    "user_id": 1,
+    "date": "2025-01-18",
+    "mb_used": 2100,
+    "minutes_used": 45,
+    "sms_used": 1,
+    "roaming_mb": 0
+  },
+  {
+    "user_id": 2,
+    "date": "2025-01-15",
+    "mb_used": 850,
+    "minutes_used": 22,
+    "sms_used": 3,
+    "roaming_mb": 50
+  },
+  {
+    "user_id": 2,
+    "date": "2025-01-16",
+    "mb_used": 1200,
+    "minutes_used": 40,
+    "sms_used": 2,
+    "roaming_mb": 0
+  },
+  {
+    "user_id": 3,
+    "date": "2025-01-15",
+    "mb_used": 3000,
+    "minutes_used": 60,
+    "sms_used": 5,
+    "roaming_mb": 120
+  },
+  {
+    "user_id": 3,
+    "date": "2025-01-16",
+    "mb_used": 2800,
+    "minutes_used": 55,
+    "sms_used": 4,
+    "roaming_mb": 80
+  }
+]
