@@ -2,7 +2,7 @@ import "./App.css";
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Login from "./components/Login";
-import Dashboard from "./components/Dashboard";
+import DashboardComplete from "./components/DashboardComplete";
 import { UserProvider } from "./context/UserContext";
 import { AppProvider } from "./context/AppContext";
 
@@ -37,7 +37,7 @@ function App() {
                 path="/dashboard" 
                 element={
                   <ProtectedRoute>
-                    <Dashboard />
+                    <DashboardComplete />
                   </ProtectedRoute>
                 } 
               />

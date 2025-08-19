@@ -1,0 +1,8 @@
+C:\Users\ozemusta\source\repos\AkilliTarifem\AkilliTarifem\obj\Debug\net9.0\AkilliTarifem.csproj.AssemblyReference.cache
+C:\Users\ozemusta\source\repos\AkilliTarifem\AkilliTarifem\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\ozemusta\source\repos\AkilliTarifem\AkilliTarifem\obj\Debug\net9.0\AkilliTarifem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozemusta\source\repos\AkilliTarifem\AkilliTarifem\obj\Debug\net9.0\AkilliTarifem.AssemblyInfoInputs.cache
+C:\Users\ozemusta\source\repos\AkilliTarifem\AkilliTarifem\obj\Debug\net9.0\AkilliTarifem.AssemblyInfo.cs
+C:\Users\ozemusta\source\repos\AkilliTarifem\AkilliTarifem\obj\Debug\net9.0\AkilliTarifem.csproj.CoreCompileInputs.cache
+C:\Users\ozemusta\source\repos\AkilliTarifem\AkilliTarifem\obj\Debug\net9.0\AkilliTarifem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ozemusta\source\repos\AkilliTarifem\AkilliTarifem\obj\Debug\net9.0\AkilliTarifem.MvcApplicationPartsAssemblyInfo.cache

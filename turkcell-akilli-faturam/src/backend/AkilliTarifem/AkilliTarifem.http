@@ -1,0 +1,6 @@
+@AkilliTarifem_HostAddress = http://localhost:5019
+
+GET {{AkilliTarifem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
